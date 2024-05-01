@@ -4,25 +4,26 @@ format: html
 editor: visual
 ---
 
-* [Employment Equity: An Analysis of Distribution of Salary Ranges of Public Service of Canada Employees](https://klaxonklaxoff.github.io/ee_dv/)\
-    [{code}](https://github.com/klaxonklaxoff/ee_dv)\
-    Code used to webscrape and visualize employee salary data from the Government of Canada's Treasury Board. Here we demonstrate systemic disadvantage in career progression amongst Black public servants which must be resolved with a strategic plan to identify structural and systemic barriers and improve retention and success to levels achieved by their non-racialized peers.
+* [Facial Keypoints Detection](https://github.com/Tanzira/FacialKeypointDetection)\
+    Implemented a CNN model for facial key points detection with ~75% accuracy on a kaggle image dataset.
 
-* [Making a Research Website with Github and Hugo](https://github.com/alburycatalina/Personal-Research-Website)\
-  A tutorial for making a personal research website with Github and Hugo.
-
-
-* [Planet aRt](https://github.com/alburycatalina/planet-aRt)\
- [{code}](https://github.com/alburycatalina/planet-aRt/blob/main/planet-aRt.R)\
-My attempt at making some pretty things with the generative art package, aRtsy.
-
-* [Thesis Word Cloud](https://github.com/alburycatalina/ThesisWordCloud)\
-  [{code}](https://github.com/alburycatalina/ThesisWordCloud/blob/main/thesis_wordcloud.R)\
-  A quick little repo containing a script I used to create a word cloud from my thesis. Here I make a visually appealing representation of the frequency of words used to tell the story of what I've been working on for the past two and a half years. 
+* [Densenet Model Comparison](https://github.com/Tanzira/densenet_model_comparison)\
+  Trained and compared variations of densenet model with other known models including resnet and efficientnet. Compared using Imagenet, SVHN, CIFAR10, CIFAR100 and ICSC datasets.
+  We included another dataset that had skin lesion images and classified those as well.
 
 
-* [Coding Nature](https://github.com/alburycatalina/Coding-Nature)\
-  A repository for a workshop for Black high school students in Nova Scotia (ages 13+). This workshop aims to inspire passion for nature and science, while giving an introduction to coding logic and data. The included exercises demonstrate how we can use programming as a tool to improve our understanding of the world around us.
+* [Data Invariat Robust Models with Transfer Learning](https://github.com/Tanzira/Data-Invariat-Robust-Models-with-Transfer-Learning)\
+  For this project I explored Data Invariance and model prediction using a simple example with the MNIST dataset. 
+  At first the model performed well on MNIST dataset but it was not well suited for other dataset.
+  Later  I applied transfer learning by leveraging the Xception model pretrained on the ImageNet dataset to enhance the accuracy of a flower classification model and achieved ~81% accuracy.
+  I included another dataset that had skin lesion images and classified those as well.
 
-* [Intro to Coding for Sr. High](https://github.com/alburycatalina/FHA_intro_to_coding)\
-  Code for a 2-day introductory coding tutorial for Bahamian high school students at Forest Heights Academy. 
+* [Single-cell decomposition analysis to predict breast cancer Metastasis](https://github.com/Tanzira/single_cell_decomposition)\
+  Here I used single-cell expression to decompose microarray gene expression data by clustering patients into multiple groups based on their gene expression. Used that to predict if a patient is going to have breast cancer metastasis or not.
+
+
+* [Cache Memory Simulator.](https://github.com/Tanzira/CacheSimulator)\
+  Developed a cache simulator for computer architecture course project.
+
+* [Decaf-19 Compiler](https://github.com/Tanzira/Decaf-19)\
+  Built a compiler for the Decaf19 programming language using python from scratch.Includes fully functional lexical analyser, parser, semantic analyser, and code generator.
