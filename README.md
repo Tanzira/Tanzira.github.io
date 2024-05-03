@@ -1,1 +1,0 @@
-# tanzira_najnin.github.io
