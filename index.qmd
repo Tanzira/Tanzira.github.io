@@ -23,7 +23,6 @@ comments: false
 ---
 
 ::: {.column-page}
-
 ## Bio
 I am a sixth-year Ph.D. student in the Computer Science Department at The University of Texas at San Antonio, with an expected graduation date in May 2024. My research primarily revolves around exploratory data analysis and statistical validation of biological data, under the supervision of [Dr. Jianhua Ruan](https://sciences.utsa.edu/faculty/profiles/ruan-jianhua.html). I have published two journal papers and submitted two more this year. Additionally, several projects are in progress, with imminent plans for publication.
 
@@ -35,7 +34,7 @@ Moreover, I am well-versed in project management using Git, ensuring efficient c
 
 
 ## Inquiries
-If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:tanzira.najnin@utsa.edu).. 
+If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:tanzira.najnin@utsa.edu).
 
 
 :::

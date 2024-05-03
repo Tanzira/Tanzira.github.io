@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Facial Keypoints Detection\nImplemented a CNN model for facial key points detection with ~75% accuracy on a kaggle image dataset.\nDensenet Model Comparison\nTrained and compared variations of densenet model with other known models including resnet and efficientnet. Compared using Imagenet, SVHN, CIFAR10, CIFAR100 and ICSC datasets. We included another dataset that had skin lesion images and classified those as well.\nData Invariat Robust Models with Transfer Learning\nFor this project I explored Data Invariance and model prediction using a simple example with the MNIST dataset. At first the model performed well on MNIST dataset but it was not well suited for other dataset. Later I applied transfer learning by leveraging the Xception model pretrained on the ImageNet dataset to enhance the accuracy of a flower classification model and achieved ~81% accuracy. I included another dataset that had skin lesion images and classified those as well.\nSingle-cell decomposition analysis to predict breast cancer Metastasis\nHere I used single-cell expression to decompose microarray gene expression data by clustering patients into multiple groups based on their gene expression. Used that to predict if a patient is going to have breast cancer metastasis or not.\nCache Memory Simulator.\nDeveloped a cache simulator for computer architecture course project.\nDecaf-19 Compiler\nBuilt a compiler for the Decaf19 programming language using python from scratch.Includes fully functional lexical analyser, parser, semantic analyser, and code generator."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tanzira Najnin",
     "section": "",
-    "text": "I am a sixth-year Ph.D. student in the Computer Science Department at The University of Texas at San Antonio, with an expected graduation date in May 2024. My research primarily revolves around exploratory data analysis and statistical validation of biological data, under the supervision of Dr. Jianhua Ruan. I have published two journal papers and submitted two more this year. Additionally, several projects are in progress, with imminent plans for publication.\nMy expertise lies in leveraging machine learning algorithms for predictive modeling and conducting rigorous statistical analyses. Proficient in the Python programming language, I am adept at utilizing common statistical and machine learning libraries, including Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Scipy, Matplotlib, and Seaborn. I possess hands-on experience in building and training machine learning models, implementing feature engineering strategies for large-scale datasets, and conducting both supervised and unsupervised model training.\nMoreover, I am well-versed in project management using Git, ensuring efficient collaboration and version control. My comprehensive skill set and extensive experience position me as a versatile and knowledgeable researcher in the field of data science.\nResearch Interests: Data Science, Machine Learning, Artificial Intelligence, Computational Biology\n\n\n\nIf you have questions about my work or are interested in collaborating, feel free to contact me.."
+    "text": "I am a sixth-year Ph.D. student in the Computer Science Department at The University of Texas at San Antonio, with an expected graduation date in May 2024. My research primarily revolves around exploratory data analysis and statistical validation of biological data, under the supervision of Dr. Jianhua Ruan. I have published two journal papers and submitted two more this year. Additionally, several projects are in progress, with imminent plans for publication.\nMy expertise lies in leveraging machine learning algorithms for predictive modeling and conducting rigorous statistical analyses. Proficient in the Python programming language, I am adept at utilizing common statistical and machine learning libraries, including Numpy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Scipy, Matplotlib, and Seaborn. I possess hands-on experience in building and training machine learning models, implementing feature engineering strategies for large-scale datasets, and conducting both supervised and unsupervised model training.\nMoreover, I am well-versed in project management using Git, ensuring efficient collaboration and version control. My comprehensive skill set and extensive experience position me as a versatile and knowledgeable researcher in the field of data science.\nResearch Interests: Data Science, Machine Learning, Artificial Intelligence, Computational Biology\n\n\n\nIf you have questions about my work or are interested in collaborating, feel free to contact me."
   },
   {
     "objectID": "index.html#bio",
@@ -25,7 +18,14 @@
     "href": "index.html#inquiries",
     "title": "Tanzira Najnin",
     "section": "",
-    "text": "If you have questions about my work or are interested in collaborating, feel free to contact me.."
+    "text": "If you have questions about my work or are interested in collaborating, feel free to contact me."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Facial Keypoints Detection\nImplemented a CNN model for facial key points detection with ~75% accuracy on a kaggle image dataset.\nDensenet Model Comparison\nTrained and compared variations of densenet model with other known models including resnet and efficientnet. Compared using Imagenet, SVHN, CIFAR10, CIFAR100 and ICSC datasets. We included another dataset that had skin lesion images and classified those as well.\nData Invariat Robust Models with Transfer Learning\nFor this project I explored Data Invariance and model prediction using a simple example with the MNIST dataset. At first the model performed well on MNIST dataset but it was not well suited for other dataset. Later I applied transfer learning by leveraging the Xception model pretrained on the ImageNet dataset to enhance the accuracy of a flower classification model and achieved ~81% accuracy. I included another dataset that had skin lesion images and classified those as well.\nSingle-cell decomposition analysis to predict breast cancer Metastasis\nHere I used single-cell expression to decompose microarray gene expression data by clustering patients into multiple groups based on their gene expression. Used that to predict if a patient is going to have breast cancer metastasis or not.\nCache Memory Simulator.\nDeveloped a cache simulator for computer architecture course project.\nDecaf-19 Compiler\nBuilt a compiler for the Decaf19 programming language using python from scratch.Includes fully functional lexical analyser, parser, semantic analyser, and code generator."
   },
   {
     "objectID": "publications.html",
