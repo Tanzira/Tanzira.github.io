@@ -1,6 +1,6 @@
 ---
 title: "Tanzira Najnin"
-image: resources/profile.jpg
+image: /resources/profile.jpg
 about:
   template: trestles
   links:
@@ -18,7 +18,7 @@ about:
       url: "https://orcid.org/0009-0005-3647-4253"
     - text: Resume
       icon: download
-      url: "tanzira_najnin_resume.pdf"
+      url: "/resources/tanzira_najnin_resume.pdf"
 comments: false
 ---
 
